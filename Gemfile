@@ -19,5 +19,6 @@ group :doc do
 end
 
 gem 'puma'
+gem 'haml'
 gem 'devise'
 gem 'cancan'
