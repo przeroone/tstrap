@@ -11,3 +11,11 @@
  *= require_self
  *= require_tree .
  */
+@import 'twitter/bootstrap';
+
+html { height: 100%; }
+
+body {
+  height: 100%;
+  padding-top: 70px;
+}
